@@ -1,5 +1,10 @@
 # pandas-challenge
  Using Pandas and Jupyter Notebook, create a report that includes the following data. Your report must include a written description of at least two observable trends based on the data.
+ 
+ Written observations: Smaller schools and Charter schools were more predictive of average and passing performance in math and reading than per pupil spending.
+ 
+ 
+ 
 Hint: Check out a sample solution to review the desired format for this assignment.
 
 District Summary
